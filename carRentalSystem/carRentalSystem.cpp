@@ -1,6 +1,10 @@
-// carRentalSystem.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-/
+
+/*
+Author: Inaaya Ansari
+Porgram Description: The purpose of 
+the program is to create a class that adjust the price of the car depending on the 
+amount of days the the rental car is used. 
+*/
 
 #include <iostream>
 #include <string>
