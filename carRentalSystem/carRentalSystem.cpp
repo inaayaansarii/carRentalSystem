@@ -1,14 +1,6 @@
 // carRentalSystem.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-
-/*
-Author: Inaaya Ansari
-Type: Assignment 4
-Due date: 12/10/24
-Class: CIS 121 703
-Purpose: The purpose of the program is to create a class that adjust the price of the car depending on the amount of days the the rental car is used. 
-In order to use the class CarRental, we use the main function in order to get the user input.
-*/
+/
 
 #include <iostream>
 #include <string>
