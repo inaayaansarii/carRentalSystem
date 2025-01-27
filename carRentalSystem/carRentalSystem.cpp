@@ -1,7 +1,7 @@
 
 /*
 Author: Inaaya Ansari
-Porgram Description: his program adjusts rental prices based on the number of days a car is rented, 
+Porgram Description: This program adjusts rental prices based on the number of days a car is rented, 
 applying daily rates, discounts for longer rentals, and additional fees like insurance or mileage.
 */
 
