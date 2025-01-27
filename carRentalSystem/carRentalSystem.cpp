@@ -1,9 +1,8 @@
 
 /*
 Author: Inaaya Ansari
-Porgram Description: The purpose of 
-the program is to create a class that adjust the price of the car depending on the 
-amount of days the the rental car is used. 
+Porgram Description: his program adjusts rental prices based on the number of days a car is rented, 
+applying daily rates, discounts for longer rentals, and additional fees like insurance or mileage.
 */
 
 #include <iostream>
